@@ -35,7 +35,7 @@ Heroku use port 5000 by default when running a application locally, this port wa
 
 ## The application 
 
-The url wil take you to the example cloned in the Heroku tutorial pag, if you go to /hello you wil see i added a header "The First Lab".
+The url wil take you to the example cloned in the Heroku tutorial page, if you go to /hello you wil see i added a header "The First Lab".
 
 https://polar-inlet-12528.herokuapp.com/
 
