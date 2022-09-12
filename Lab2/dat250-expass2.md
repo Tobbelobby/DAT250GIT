@@ -25,5 +25,4 @@ As you can see i inspect the db through the tool in IntelliJ.
 
 
 ## The code 
-
-In the folder code/experiment 2 you can find my implementation. This is the entire folder from the DAT250 whit my changes in main, Address and so on.   
+https://github.com/Tobbelobby/dat250-jpa-example
