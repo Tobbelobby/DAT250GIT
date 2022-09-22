@@ -24,7 +24,26 @@
 
 
 
-
-
-
 ## Experiment 2
+
+<img width="863" alt="Screenshot 2022-09-21 at 11 39 46" src="https://user-images.githubusercontent.com/57746569/191471761-aea9fcab-3c5f-4aa1-872d-9dd4f32b704d.png">
+
+
+
+## implemented
+
+To aggregate nested data can be used for analyses, det data in my exsampel is not that importent. But if the data was heigth of people we can calculate the mean.
+
+## issues 
+
+I hed no major prolems, but i had to fix some path.
+
+
+
+Tobias Kristensen 
+
+
+
+
+
+
